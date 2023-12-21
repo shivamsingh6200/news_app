@@ -1,0 +1,1 @@
+https://newsapi.org/v2/everything?q={q}&apiKey=44e06e3659d149998fd341c629c5e7ce
